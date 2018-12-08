@@ -14,12 +14,19 @@ I Đặc tả Class
 8 Báo cáo thống kê
 9 Đăng nhập
 ----------------------
-Cần nhũng class ( Vẽ sơ đồ,làm bảng:Thuộc tính, chức năng) nào ( Tham khảo báo cáo mẫu UML) :
+I)Phân tích
+(Deadline tối thứ 7 23h)
+a) Làm xong sequen diagram + class diagram theo từng phần.
+b) Gộp lại làm sơ đồ class diagram tổng + entity tổng.
+--------
+(Deadline trưa CN 12h)
+c) Đặc tả class Diagram
+d) Ánh xạ ra mô hình quan hệ
+--
 1,2,3, Huy
 4,5,6 Sang
 7,8,9 Thanh
-Deadline Tối thứ 7 (23h) 
-(Chưa làm xong bao chầu nước hôm đó)
+(Tham khảo báo cáo mẫu UML)
 --------------------------------------------
 I---->II Thiết kế database chức năng đơn giản(tạo bảng+ proc)
 (Dựa vào database mẫu)
