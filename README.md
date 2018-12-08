@@ -22,20 +22,17 @@ I Đặc tả Class
 I)Phân tích 
 	(Deadline tối thứ 7 23h) 
 	a) Làm xong sequen diagram + class diagram theo từng phần. 
-
 	b) Gộp lại làm sơ đồ class diagram tổng + entity tổng.
 	
 --------
 	
 (Deadline trưa CN 12h) 
 	c) Đặc tả class Diagram 
-
 	d) Ánh xạ ra mô hình quan hệ
 
 ------------------
 
 	1,2,3, Huy 
-  
 	4,5,6 Sang 
 	7,8,9 Thanh 
 	(Tham khảo báo cáo mẫu UML)
